@@ -1,0 +1,6 @@
+#(backup.sql ignoro o arquivo backup.sql)
+*.sql
+#(*.sql ignoro todos os arquivos .sql)
+#(rascunhos.txt ignoro o arquivo rascunhos.txt)
+*.txt 
+#(*.txt ignoro todos os arquivos .txt)
