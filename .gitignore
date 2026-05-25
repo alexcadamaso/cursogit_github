@@ -4,3 +4,7 @@
 #(rascunhos.txt ignoro o arquivo rascunhos.txt)
 *.txt 
 #(*.txt ignoro todos os arquivos .txt)
+
+#(teste/* ignoro todos os arquivos dentro da pasta teste)
+
+#(teste/ ignoro a pasta teste e tudo que tem dentro dela)
